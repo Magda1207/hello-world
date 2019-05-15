@@ -1,2 +1,2 @@
 # hello-world
-learnig githyb
+learnig github
